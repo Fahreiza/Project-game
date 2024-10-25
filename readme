@@ -1,0 +1,47 @@
+Fitur Game Pertanian
+-- done
+Profil
+nama 
+umur
+
+Fitur
+musim(Kemarau,hujan)
+macam tumbuhan
+coin
+shop{
+    beli tumbuhan
+    jual tumbuhan
+}
+
+tumbuhan jika musim kemarau harus di siram tiap hari jika tidak akan gagal panen
+
+
+lv1
+tumbuhan:padi(2 hari)
+tanah:2x2
+tanam tumbuhan
+panen
+jual padi seharga 2,5k
+
+
+setalah coin mencapai 10K mencapai lv2 dan mendapatkan jagung
+
+lv2
+tumbuhan:padi,jagung
+tanah:3x3
+tanam tumbuhan
+panen
+jual jagung seharga 5k
+
+jika coin sudah mencapai 40k mencapai lv3 dan mendapatkan tomat
+
+lv3
+tumbuhan:padi,jagung,tomat
+tanah:4x4
+tanam tumbuhan
+panen
+jual tomat seharga 10k 
+
+jika coin sudah mencapai 100k game tamat
+
+
